@@ -1,8 +1,7 @@
-# KNeighbors_Classification
+Logistic regression for multi classification 
 
-data from https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
-Occupancy Detection Data Set
-Time-serie multivariate, binary classification
+data also available from https://archive.ics.uci.edu/ml/datasets/smartphone-based+recognition+of+human+activities+and+postural+transitions
+Smartphone measurements vs human activities
 
 
 
